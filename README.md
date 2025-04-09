@@ -4,6 +4,13 @@ Free full-featured web-based audio &amp; waveform editing tool
 
 Live: [https://audiomass.co](https://audiomass.co)
 
+GH Pages version with patches applied:
+
+ * `.wav` files load correctly via "Load from Computer"
+ * Audio sample rate is taken from the `AudioContext`
+
+https://jessepav.github.io/AudioMass/src/index.html
+
 ---
 
 ## Getting it to Run!
